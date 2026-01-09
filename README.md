@@ -78,6 +78,11 @@ Managed pods, services, and deployments
 Implemented rolling updates
 
 📜 Certifications
+## ☁️ AWS Certifications
+
+![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?logo=amazonaws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?logo=amazonaws&logoColor=white)
+
 
 ✅ AWS Certified Solutions Architect – Associate (SAA-C03)
 
