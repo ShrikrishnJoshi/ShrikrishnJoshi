@@ -65,20 +65,6 @@ DevOps Engineer with 4+ years of IT experience, specializing in cloud infrastruc
 
 ---
 
-## 📊 GitHub Stats
-
-![Shrikrishna Joshi GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrikrishna-joshi&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrikrishna-joshi&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shrikrishna-joshi&theme=tokyonight&hide_border=true)
-
----
-
 ## 🎯 Career Objective
 
 To work as a DevOps Engineer where I can automate infrastructure, optimize CI/CD pipelines, and contribute to building highly available and scalable cloud platforms.
