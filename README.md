@@ -1,116 +1,96 @@
-👋 Hi, I'm Shrikrishna Joshi
+# 👋 Hi, I'm Shrikrishna Joshi
 
 🚀 DevOps Engineer | Cloud & Automation Specialist | AWS Certified
 
-I am a DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipelines, containerization, and automation. I focus on building scalable, reliable, and secure cloud-native systems using industry best practices.
+---
 
-💼 Professional Summary
+## 💼 Professional Summary
 
-DevOps Engineer with 4+ years of IT experience
+DevOps Engineer with 4+ years of IT experience, specializing in cloud infrastructure, CI/CD automation, and containerized deployments. Experienced in building scalable, secure, and reliable cloud-native solutions using modern DevOps tools and best practices.
 
-Strong hands-on experience in AWS, Docker, Kubernetes, Jenkins
+---
 
-Experience in CI/CD pipeline design & automation
-
-Skilled in Linux administration and Infrastructure as Code
-
-AWS Certified with real-world cloud deployment experience
-
-☁️ Cloud & DevOps Skills
-Cloud Platforms
-
-AWS – EC2, S3, IAM, VPC, RDS, CloudWatch
-
-DevOps & Automation
-
-Docker – Image creation, containerization, Docker Hub
-
-Kubernetes – Pods, Services, Deployments
-
-Jenkins – CI/CD pipelines (build, test, deploy)
-
-Ansible – Configuration management & automation
-
-Git & GitHub – Version control & collaboration
-
-Operating Systems & Scripting
-
-Linux (Amazon Linux, Ubuntu)
-
-Shell Scripting (Bash)
-
-Code Quality & Monitoring
-
-SonarQube
-
-AWS CloudWatch
-
-🧰 Tools & Technologies
-AWS | Docker | Kubernetes | Jenkins | Ansible | Linux | Git | GitHub | Bash | SonarQube
-
-📂 DevOps Projects
-🔹 CI/CD Pipeline using Jenkins & Docker
-
-Automated application build and deployment
-
-Dockerized Node.js application
-
-Pushed images to Docker Hub
-
-Integrated Jenkins pipeline with GitHub
-
-🔹 AWS Infrastructure Setup
-
-EC2 provisioning and configuration
-
-IAM users, roles, and policies
-
-Security group and networking setup
-
-Application hosting on AWS
-
-🔹 Container Orchestration with Kubernetes
-
-Deployed containerized applications
-
-Managed pods, services, and deployments
-
-Implemented rolling updates
-
-📜 Certifications
-## ☁️ AWS Certifications
-
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?logo=amazonaws&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?logo=amazonaws&logoColor=white)
-
-
-✅ AWS Certified Solutions Architect – Associate (SAA-C03)
-
-✅ AWS Certified Cloud Practitioner
-## 📊 GitHub Stats
-
-
-📫 Connect With Me
-
-📧 Email: shrikrishna.joshi95@gmail.com
-
-💼 LinkedIn: linkedin.com/in/shrikrishna-joshi95
-
-🌐 GitHub: github.com/shrikrishna-joshi
-
-🎯 Career Objective
 ## 🛠️ DevOps & Cloud Stack
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet?logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-black?logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-black?logo=github)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-OS-yellow?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-black?style=for-the-badge&logo=github)
 
+---
 
-To work as a DevOps Engineer where I can design, automate, and optimize cloud infrastructure while continuously improving deployment efficiency and system reliability.
+## ☁️ AWS Certifications
 
-⭐ Open to DevOps, Cloud Engineer, and Platform Engineer roles.
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## ⚙️ Technical Skills
+
+- **Cloud:** AWS (EC2, S3, IAM, VPC, RDS, CloudWatch)
+- **CI/CD:** Jenkins, GitHub Actions
+- **Containers:** Docker, Docker Hub
+- **Orchestration:** Kubernetes
+- **IaC & Automation:** Ansible
+- **OS:** Linux (Amazon Linux, Ubuntu)
+- **Version Control:** Git, GitHub
+- **Scripting:** Bash
+- **Code Quality:** SonarQube
+
+---
+
+## 📂 DevOps Projects
+
+### 🔹 CI/CD Pipeline with Jenkins & Docker
+- Automated build and deployment pipeline
+- Dockerized application
+- Integrated GitHub with Jenkins
+- Pushed versioned images to Docker Hub
+
+### 🔹 AWS Cloud Infrastructure
+- EC2 provisioning and configuration
+- IAM users, roles, and policies
+- Security groups and networking setup
+- Application hosting on AWS
+
+### 🔹 Kubernetes Deployment
+- Deployed containerized applications
+- Managed pods, services, and deployments
+- Implemented rolling updates
+
+---
+
+## 📊 GitHub Stats
+
+![Shrikrishna Joshi GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrikrishna-joshi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrikrishna-joshi&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shrikrishna-joshi&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Career Objective
+
+To work as a DevOps Engineer where I can automate infrastructure, optimize CI/CD pipelines, and contribute to building highly available and scalable cloud platforms.
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: shrikrishna.joshi95@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/shrikrishna-joshi95  
+- 🌐 GitHub: https://github.com/shrikrishna-joshi  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=shrikrishna-joshi&style=for-the-badge&color=blue)
