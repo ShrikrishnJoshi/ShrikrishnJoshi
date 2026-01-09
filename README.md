@@ -94,6 +94,17 @@ Implemented rolling updates
 🌐 GitHub: github.com/shrikrishna-joshi
 
 🎯 Career Objective
+## 🛠️ DevOps & Cloud Stack
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet?logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black?logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-black?logo=github)
+
 
 To work as a DevOps Engineer where I can design, automate, and optimize cloud infrastructure while continuously improving deployment efficiency and system reliability.
 
