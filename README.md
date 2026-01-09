@@ -84,10 +84,6 @@ Implemented rolling updates
 ✅ AWS Certified Cloud Practitioner
 ## 📊 GitHub Stats
 
-![Shrikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrikrishna-joshi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrikrishna-joshi&layout=compact&theme=tokyonight)
-
 
 📫 Connect With Me
 
