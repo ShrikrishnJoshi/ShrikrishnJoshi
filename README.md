@@ -70,17 +70,11 @@ DevOps Engineer with 4+ years of IT experience, specializing in cloud infrastruc
 To work as a DevOps Engineer where I can automate infrastructure, optimize CI/CD pipelines, and contribute to building highly available and scalable cloud platforms.
 
 ---
-## 📈 Contribution Activity
- 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrikrishnaJoshi&theme=react-dark"/…
-</p>
 
 ## 📫 Connect With Me
 
 - 📧 Email: shrikrishna.joshi95@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/shrikrishna-joshi95  
-- 🌐 GitHub:  
 
 ---
 
